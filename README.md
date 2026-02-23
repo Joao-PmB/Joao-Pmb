@@ -4,7 +4,7 @@
 
 João Pedro de Moraes Barros, tenho 19 anos e sou residente em Goiás.
 Estudante de Ciências da Computação na PUC Goiás.
-Tive meu primeiro contato com programação e suas tecnologias ainda no Ensino Médio, no Colégio Estadual da Polícia Militar de Goiás Pedro Xavier Teixeira,no qual, se tornou minha principal área de interesse.
+Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no Colégio Estadual da Polícia Militar de Goiás Pedro Xavier Teixeira,no qual, se tornou minha principal área de interesse.
 Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas skills.
 
 ---
