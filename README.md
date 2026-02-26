@@ -1,9 +1,8 @@
-# </> João Pedro｡🇯‌🇸‌ </>
+# ⚡ João Pedro
 
 **`Desenvolvedor Frontend`**
 
-João Pedro de Moraes Barros, tenho 19 anos e sou residente em Goiás.
-Estudante de Ciências da Computação na PUC Goiás.
+João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Computação na PUC Goiás.
 Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no Colégio Estadual da Polícia Militar de Goiás Pedro Xavier Teixeira,no qual, se tornou minha principal área de interesse.
 Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas skills.
 
@@ -50,4 +49,12 @@ Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio p
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
