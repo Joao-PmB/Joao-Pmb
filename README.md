@@ -18,6 +18,7 @@ Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -26,6 +27,7 @@ Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -34,6 +36,7 @@ Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -50,6 +53,16 @@ Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Linux" 
