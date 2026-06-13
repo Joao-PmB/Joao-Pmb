@@ -3,8 +3,9 @@
 **`Desenvolvedor Frontend`**
 
 João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Computação na PUC Goiás.
-Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no Colégio Estadual da Polícia Militar de Goiás Pedro Xavier Teixeira,no qual, se tornou minha principal área de interesse.
-Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas skills.
+Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no qual, se tornou minha principal área de interesse.
+Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas habilidades utilizando as
+minhas stacks.
 
 ---
 
