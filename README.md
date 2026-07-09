@@ -5,6 +5,7 @@
 João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Computação na PUC Goiás. Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no qual, se tornou minha principal área de interesse. Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas habilidades utilizando as minhas stacks.
 
 ---
+<br>
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -26,7 +27,7 @@ João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Comp
 
 </div>
 
-
+<br>
 
 ## 💬 Contato
 
@@ -34,7 +35,7 @@ João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Comp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedromb/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62994234351)
 
-
+<br>
 
 ## 💡 Interesses
 
@@ -44,3 +45,7 @@ João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Comp
 - React JS e Sass
 - Desenvolvimento de componentes reutilizáveis
 - Performance e otimização web
+
+<p align="center">
+  <i>I use Arch btw.</i>
+</p>
