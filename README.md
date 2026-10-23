@@ -2,7 +2,7 @@
 
 **Desenvolvedor Frontend**
 
-João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Computação na PUC Goiás. Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no qual, se tornou minha principal área de interesse. Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas habilidades utilizando as minhas stacks.
+João Pedro de Moraes Barros, sou estudante de Ciências da Computação na PUC Goiás. Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no qual, se tornou minha principal área de interesse. Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas habilidades utilizando as minhas stacks.
 
 ---
 <br>
@@ -24,6 +24,10 @@ João Pedro de Moraes Barros, tenho 19 anos e sou estudante de Ciências da Comp
 <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Linux" title="Linux" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Jira" title="Jira" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Docker" title="Docker" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
 </div>
 
