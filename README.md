@@ -1,4 +1,4 @@
-# ⚡ João Pedro
+# ⚡ Sobre mim
 
 **Desenvolvedor Frontend**
 
