@@ -5,7 +5,11 @@
 João Pedro de Moraes Barros, moro em Senador Canedo e sou estudante de Ciências da Computação na PUC Goiás. Tive meu primeiro contato com programação e tecnologias ainda no Ensino Médio, no qual, se tornou minha principal área de interesse. Tenho foco em desenvolvimento web/software, sendo a área que procuro estágio para fortalecer minhas habilidades utilizando as minhas stacks.
 
 ---
-<br>
+
+# 🎓 Faculdade
+
+| [Trabalhos de Faculdade](https://github.com/GustavoLR548/GustavoLR548/blob/main/LIST.md) | 
+
 
 ## 🛠️ Linguagens e Ferramentas
 
