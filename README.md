@@ -41,13 +41,12 @@ João Pedro de Moraes Barros, moro em Senador Canedo e sou estudante de Ciência
 
 <br>
 
-## 💡 Interesses
+## 💡 Aprendendo
 
-- Desenvolvimento Web Frontend
-- Frameworks e bibliotecas modernas
+- Desenvolvimento Fullstack
 - Design responsivo e UX/UI
-- React JS e Sass
-- Desenvolvimento de componentes reutilizáveis
+- React JS
+- TypeScript
 - Performance e otimização web
 
 <p align="center">
